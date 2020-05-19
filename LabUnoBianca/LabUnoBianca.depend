@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1589925602 source:c:\users\compumama.compu-casa\desktop\labunobianca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"motos.h"
+	"trabajos.h"
+
+1589925602 c:\users\compumama.compu-casa\desktop\labunobianca\validaciones.h
+
+1589925602 c:\users\compumama.compu-casa\desktop\labunobianca\motos.h
+
+1589925602 c:\users\compumama.compu-casa\desktop\labunobianca\trabajos.h
+
+1589925602 source:c:\users\compumama.compu-casa\desktop\labunobianca\motos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"motos.h"
+
+1589925602 source:c:\users\compumama.compu-casa\desktop\labunobianca\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"motos.h"
+	"trabajos.h"
+
+1589925602 source:c:\users\compumama.compu-casa\desktop\labunobianca\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
